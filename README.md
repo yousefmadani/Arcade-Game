@@ -6,7 +6,7 @@ Get Bernie to the DNC without getting hit by the establishment bugs.
 
 1. Click on **Clone or download** then **Download ZIP**.
 2. Unzip the file.
-3. Run index.html in your desired browser. 
+3. Run *index.html* in your desired browser. 
 4. Move the player by using the arrow keys on the keyboard.
 
 
