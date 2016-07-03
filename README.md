@@ -1,17 +1,19 @@
-frontend-nanodegree-arcade-game
+Get Bernie to the DNC
 ===============================
+Get Bernie to the DNC without getting hit by the establishment bugs.
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission.
+# To play the game
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
-
-To play the game
-===============================
-
-Simply download the zipped folder then unzip it, and run index.html. 
-you can move the player by using the arrow keys on the keyboard.
-The goal is to get Bernie to the DNC without getting hit by the bugs.
+1. Click on **Clone or download** then **Download ZIP**.
+2. Unzip the file.
+3. Run index.html in your desired browser. 
+4. Move the player by using the arrow keys on the keyboard.
 
 
-
-
+### Resources used
+* Game graphics are from [PlanetCute.](http://www.lostgarden.com/2007/05/dancs-miraculously-flexible-game.html?m=1)
+* Bernie pixel image from [*The Guardian.*](http://www.theguardian.com/us-news/ng-interactive/2016/mar/25/us-election-2016-delegate-tracker-trump-cruz-kasich-sanders-clinton) 
+* DNC image poster from [*Wikipedia.*](https://en.wikipedia.org/wiki/2016_Democratic_National_Convention)
+* [Bounding Box Collision Detection.](https://www.youtube.com/watch?v=8b_reDI7iPM)
+* [Collision detection.](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Collision_detection)
+* [You Don't Know JS.](https://github.com/getify/You-Dont-Know-JS)
